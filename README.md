@@ -85,12 +85,4 @@ plt.show()
 - Search/add `my-first-gen-art`
 - Save
 
-Done. Your repo is now live, visual, and pinned—profile looks way more active and artistic. Visit it: https://github.com/iamomnishropbot/my-first-gen-art
 
-Next? We can:
-- Tweak colors (more pink? Add rainbow?)
-- Add a second sketch (e.g., simple particles)
-- Switch to p5.js for browser-interactive version
-- Or move to a new repo
-
-What do you want to do from here? Just say the word.
