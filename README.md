@@ -63,3 +63,34 @@ plt.imshow(img)
 plt.axis('off')
 plt.savefig('my-first-neon-cloud.png', bbox_inches='tight', dpi=200)
 plt.show()
+
+- Commit changes (message: "Finalize README with visuals and starter sketch")
+
+### Step 3: Add the Python File
+- Repo page > Add file > Create new file
+- File name: `basic-noise-field.py`
+- Paste just the Python code block from above (imports to plt.show())
+- Commit message: "Add first generative sketch: neon Perlin noise field"
+- Commit new file
+
+### Step 4: Add a Preview Image
+- Pick one of the images I rendered above (right-click > Save image as on the ones you like best from the previews).
+- Name it something like `my-first-neon-cloud.png`
+- Repo page > Add file > Upload files > drag/drop the PNG
+- Commit message: "Add example output preview from neon noise sketch"
+
+### Step 5: Pin to Profile
+- Go to github.com/iamomnishropbot
+- Find "Pinned" section > Customize your pins
+- Search/add `my-first-gen-art`
+- Save
+
+Done. Your repo is now live, visual, and pinned—profile looks way more active and artistic. Visit it: https://github.com/iamomnishropbot/my-first-gen-art
+
+Next? We can:
+- Tweak colors (more pink? Add rainbow?)
+- Add a second sketch (e.g., simple particles)
+- Switch to p5.js for browser-interactive version
+- Or move to a new repo
+
+What do you want to do from here? Just say the word.
